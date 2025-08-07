@@ -50,5 +50,4 @@ This academic project analyzes the **product portfolio, pricing, and discount st
 ## 👨‍💼 Author
 
 **Ankur Agnihotri**  
-Roll No: 2021IMG-008  
-Business Analytics Academic Project
+
